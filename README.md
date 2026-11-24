@@ -12,7 +12,7 @@ Built on the [Olist Brazilian E-commerce dataset](https://www.kaggle.com/dataset
 | Revenue trend and seasonality | **+141% YoY**, with steady monthly revenue of ~$0.9M. Peak in Nov 2017 (Black Friday). |
 | Top categories and states | **São Paulo is ~40% of revenue.** Health & beauty, watches & gifts and bed/bath lead the categories. |
 | Delivery vs reviews | Late orders score **~2 points lower** (2.3 vs 4.3). The Northeast has the most late deliveries (AL 22%). |
-| Repeat customers | **96.7% buy only once** (3.3% repeat). Growth depends on acquisition. |
+| Repeat customers | **96.8% buy only once** (3.2% repeat). Growth depends on acquisition. |
 | Seller dependency | Top 10 sellers hold only **13%** of revenue, so dependency risk is low. |
 
 Full write-up: [Findings and recommendations](docs/findings.md)
